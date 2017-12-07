@@ -1,7 +1,7 @@
 ## node server.js Log
 
 ### Day 1
-We started the day by watching the first of Dan Shiffman's shared canvas videos. By the end, 
+We started the day by watching the first of Dan Shiffman's shared canvas videos. We understand that the goal of the project is going to be to connect 2 people, 2 windows for the sake of simplicity to a server using 2 different windows, so that when edits are made on one person's computer the the sketch run on the computer, they are relayed to the other person's computer via their socket. The server program is going to be written using node.js. Node.js will ultimately host the sketch made using p5.js, and p5 manager. So, obviously, we started by downloading node.js and p5 manager onto the command line using the lines of code "npm -g install p5-manager" and simply going to the node website.
 
 ### Day 2
 
