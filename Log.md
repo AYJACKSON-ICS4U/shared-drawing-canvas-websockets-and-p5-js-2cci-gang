@@ -14,4 +14,4 @@ We started the day by watching the first of Dan Shiffman's shared canvas videos.
 ### Day 6
 
 
-![Gif of end results](https://github.com/AYJACKSON-ICS4U/shared-drawing-canvas-websockets-and-p5-js-2cci-gang/blob/master/Shorterone.gif)
+
