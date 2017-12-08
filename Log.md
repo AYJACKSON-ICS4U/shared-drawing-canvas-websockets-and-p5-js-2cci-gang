@@ -12,3 +12,5 @@ We started the day by watching the first of Dan Shiffman's shared canvas videos.
 ### Day 5
 
 ### Day 6
+
+[First Father]: http://octodex.github.com/images/founding-father.jpg
