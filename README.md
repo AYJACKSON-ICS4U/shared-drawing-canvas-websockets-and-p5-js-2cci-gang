@@ -20,3 +20,5 @@ Rubric:
 3 - You get it working
 2 - You have a well github repo that has continued to be mainted, progress or attempts to make it work are evident.(i.e. A quick look at the repo should make this obvious)
 1 - Very little effort was made.
+
+The entire folder, excluding the node modules are included in the Web folder contained in the repository
