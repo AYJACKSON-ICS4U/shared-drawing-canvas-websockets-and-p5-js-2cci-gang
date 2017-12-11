@@ -1,4 +1,4 @@
-#### A message from the members of this group (Tim, Carter, Cooper, and Anees): Welcome to our log. We have summaries of our work periods in the _Logs_ Folder, and many other thing to explore. Enjoy!
+#### A message from the members of this group (Tim, Carter, Cooper, and Anees): Welcome to our log. We have summaries of our work periods in the _Logs_ File, and any code used in the _Code_ Folder. Enjoy!
 
 # SharedDrawingCanvas
 Web Sockets and p5.js Tutorial
